@@ -7,14 +7,14 @@ I am a passionate Web3 Fullstack Developer and Validator Operator dedicated to b
 ## Skills and Technologies
 
 ### Web3 Development
-- **Smart Contracts**: Solidity, Vyper
-- **Frameworks**: Truffle, Hardhat, Brownie
+- **Smart Contracts**: Solidity, Vyper, Rust, Plutus
+- **Frameworks**: Truffle, Hardhat, Brownie, Echidna
 - **Testing**: Mocha, Chai, Ganache, Remix IDE
 - **Token Standards**: ERC-20, ERC-721, ERC-1155
 
 ### Backend Development
 - **Languages**: JavaScript, TypeScript, Python, Go, Rust
-- **Frameworks**: Node.js, Express, Koa
+- **Frameworks**: Node.js, Express
 - **Databases**: MongoDB, PostgreSQL, Redis
 - **APIs**: REST, GraphQL
 - **Web3 Integration**: web3.js, ethers.js

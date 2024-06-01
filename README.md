@@ -2,7 +2,7 @@
 
 ## About Me
 
-I am a passionate Web3 Fullstack Developer and Validator Operator dedicated to building and securing decentralized applications and networks. My expertise spans across smart contract development, backend and frontend web development, and maintaining validator nodes for various blockchain protocols.
+I am a passionate about Web3 Fullstack Developer and Validator Operator dedicated to building and securing decentralized applications and networks. My expertise spans across smart contract development, backend and frontend web development, and maintaining validator nodes for various blockchain protocols.
 
 ## Skills and Technologies
 

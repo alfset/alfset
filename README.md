@@ -67,7 +67,7 @@ Setup and maintenance of a validator node.
 
 ## How to Reach Me
 
-- **Email**: [alfset5@gmail.com](mailto:alfset5@gmail.com.com)
+- **Email**: [alfcomunitynode](mailto:alf@comunitynode.my.id)
 - **LinkedIn**: [Alfino Setiawan](https://www.linkedin.com/in/Alfinosetiawan)
 - **Twitter**: [@Alfcomunitynode](https://twitter.com/alfcomunitynode)
 - **Website**: [comunitynode](https://www.comunitynode.my.id)

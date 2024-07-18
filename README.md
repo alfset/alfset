@@ -60,8 +60,6 @@ Setup and maintenance of a validator node.
 - **Monitoring**: Prometheus, Grafana.
 - **Security**: Implemented advanced key management and slashing protection measures.
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=alfset&theme=dark&show_icons=true&hide_border=true&count_private=true)
-
 ## How to Reach Me
 
 - **Email**: [alfcomunitynode](mailto:alf@comunitynode.my.id)

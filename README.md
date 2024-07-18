@@ -61,8 +61,6 @@ Setup and maintenance of a validator node.
 - **Security**: Implemented advanced key management and slashing protection measures.
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=alfset&theme=dark&show_icons=true&hide_border=true&count_private=true)
-![GitHub Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=alfset&theme=dark&show_icons=true&hide_border=true&layout=compact)
-![GitHub Stats](https://github-readme-streak-stats.herokuapp.com/?user=alfset&theme=dark&hide_border=true)
 
 ## How to Reach Me
 

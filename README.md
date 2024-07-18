@@ -31,8 +31,7 @@ I am a passionate about Web3 Fullstack Developer and Validator Operator dedicate
 - **Cloud Providers**: OVH, Hetzner
 
 ### Validator Operations
-- **Blockchain Protocols**: Ethereum 2.0, Polkadot, Cosmos, Planq, BNB, OpBNB
-- **Node Management**: Planq, Oriachain, Swisstronik
+- **Blockchain Protocols**: Ethereum 2.0, Polkadot, Cosmos, Planq, BNB, OpBNB, Planq, Oriachain, Swisstronik
 - **Monitoring Tools**: Grafana, Prometheus, Bot 
 - **Security Practices**: Key Management, Slashing Protection, Network Security
 

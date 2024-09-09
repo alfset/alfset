@@ -26,10 +26,6 @@ I am a passionate about Web3 Fullstack Developer and Validator Operator dedicate
 - **Web3 Integration**: web3.js, ethers.js
 - **Styling**: Bootstrap, Tailwind CSS, Material UI
 
-### DevOps & Cloud
-- **Containerization**: Docker, Kubernetes, Proxmox
-- **Cloud Providers**: OVH, Hetzner
-
 ### Validator Operations
 - **Blockchain Protocols**: Ethereum 2.0, Polkadot, Cosmos, Planq, BNB, OpBNB, Planq, Oriachain, Swisstronik
 - **Monitoring Tools**: Grafana, Prometheus, Bot 
@@ -60,9 +56,12 @@ Setup and maintenance of a validator node.
 - **Monitoring**: Prometheus, Grafana.
 - **Security**: Implemented advanced key management and slashing protection measures.
 
-## How to Reach Me
+## Reach Me
 
 - **Email**: [alfcomunitynode](mailto:alf@comunitynode.my.id)
 - **LinkedIn**: [Alfino Setiawan](https://www.linkedin.com/in/Alfinosetiawan)
 - **Twitter**: [@Alfcomunitynode](https://twitter.com/alfcomunitynode)
 - **Website**: [comunitynode](https://www.comunitynode.my.id)
+
+
+<img src="https://github-readme-stats.vercel.app/api?username=Alfset&theme=default&show_icons=true&hide_border=true&count_private=true" alt="Alfset's GitHub Stats" />

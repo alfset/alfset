@@ -63,5 +63,6 @@ Setup and maintenance of a validator node.
 - **Twitter**: [@Alfcomunitynode](https://twitter.com/alfcomunitynode)
 - **Website**: [comunitynode](https://www.comunitynode.my.id)
 
+<img src="https://github-profile-trophy.vercel.app/?username=alfset" />
 
 <img src="https://github-readme-stats.vercel.app/api?username=Alfset&theme=default&show_icons=true&hide_border=true&count_private=true" alt="Alfset's GitHub Stats" />

@@ -2,7 +2,13 @@
 
 ## About Me
 
-I am a passionate about Web3 Fullstack Developer and Validator Operator dedicated to building and securing decentralized applications and networks. My expertise spans across smart contract development, backend and frontend web development, and maintaining validator nodes for various blockchain protocols.
+👋 About Me
+Hi! I'm Alfino Setiawan — also known as alfset or alfcomunitynode. I'm a Web3 Fullstack Developer and Validator Operator from Indonesia, passionate about building and securing decentralized applications and blockchain networks.
+
+I am  currently loved in:
+🔐 Smart contract development
+🌐 Fullstack dApp development
+🛰️ Validator operations for networks like Cosmos, Sei, and Celestia
 
 ## Reach Me
 
@@ -12,5 +18,6 @@ I am a passionate about Web3 Fullstack Developer and Validator Operator dedicate
 - **Website**: [comunitynode](https://www.comunitynode.my.id)
 
 <img src="https://github-profile-trophy.vercel.app/?username=alfset" />
-
 <img src="https://github-readme-stats.vercel.app/api?username=Alfset&theme=default&show_icons=true&hide_border=true&count_private=true" alt="Alfset's GitHub Stats" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=alfset" />
+<img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg" />

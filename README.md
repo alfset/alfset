@@ -8,8 +8,7 @@ Hi! I'm Alfino Setiawan — also known as alfset or alfcomunitynode. I'm a Web3 
 I am  currently loved in:
 🔐 Smart contract development
 🌐 Fullstack dApp development
-🛰️ Validator operations for networks like Cosmos, Sei, and Celestia
-
+🛰️ Validator operations for Blockchain Network
 ## Reach Me
 
 - **Email**: [alfcomunitynode](mailto:alf@comunitynode.my.id)
